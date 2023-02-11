@@ -1,0 +1,3 @@
+Multiplicand: 12345
+Multiplier: 39
+Result: 481455
